@@ -100,5 +100,5 @@ Tabular data browser providing real-time data inspection and filtering capabilit
 
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/manikarraj-cmd/cafe-data-lab-project.git](https://github.com/manikarraj-cmd/cafe-data-lab-project.git)
+   git clone [https://github.com/Emmanuelrajj4e/cafe-data-lab-project.git](https://github.com/manikarraj-cmd/cafe-data-lab-project.git)
    cd cafe-data-lab-project
